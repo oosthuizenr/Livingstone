@@ -20,7 +20,8 @@ Architecture
 ======
 This app attemps to implement the MVP (Model-View-Presenter) architecturel pattern.
 
-### Libraries used 
+Libraries Used
+=====
 * AppCompat, Support, Design, Percent, CardView and RecyclerView
 * Dagger 2.0
 * RxJava & RxAndroid
