@@ -7,13 +7,25 @@ Livingstone is for Android developers.
 It allows you to view all the details of installed apps on your device.
 
 Viewing includes:
-General Info
-Activities + Detail
-Services
-Content Providers + Detail
-Broadcast Receivers
-Requested Permissions
-Declared Permissions
-Requested Features
+..*General Info
+..*Activities + Detail
+..*Services
+..*Content Providers + Detail
+..*Broadcast Receivers
+..*Requested Permissions
+..*Declared Permissions
+..*Requested Features
 
-This app attemps to implement MVP architecture.
+Architecture
+======
+This app attemps to implement the MVP (Model-View-Presenter) architecturel pattern.
+
+### Libraries used 
+* AppCompat, Support, Design, Percent, CardView and RecyclerView
+* Dagger 2.0
+* RxJava & RxAndroid
+* Butterknife
+* Material Ripple
+* JUnit
+* Mockito
+* Robolectric
