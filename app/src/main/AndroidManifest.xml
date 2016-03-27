@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.livingstoneapp">
+
+    <application
+        android:name=".MainApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.PackageListActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.PackageDetailActivity"
+            android:label="@string/title_activity_package_detail">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+        </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".activities.ActivityDetailActivity"
+            android:label="@string/title_activity_activity_detail"></activity>
+        <activity
+            android:name=".activities.ContentProviderDetailActivity"
+            android:label="@string/title_activity_content_provider_detail"></activity>
+    </application>
+
+</manifest>

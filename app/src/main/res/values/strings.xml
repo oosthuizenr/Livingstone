@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Livingstone</string>
+    <string name="title_activity_package_list">Installed Apps</string>
+    <string name="title_activity_package_detail">Installed Apps</string>
+    <string name="menu_item_include_uninstalled_apps">Include Uninstalled Apps</string>
+    <string name="menu_item_include_system_apps">Include System Apps</string>
+
+
+    <string name="no_values">Nothing</string>
+
+    <string name="tab_header_application_info">General</string>
+    <string name="tab_header_activities">Activites</string>
+    <string name="tab_header_services">Services</string>
+    <string name="tab_header_declared_permissions">Declared Permissions</string>
+    <string name="tab_header_requested_permissions">Requested Permissions</string>
+    <string name="tab_header_requested_features">Requested Features</string>
+    <string name="tab_header_content_providers">Content Providers</string>
+    <string name="tab_header_broadcast_receivers">Broadcast Receivers</string>
+
+
+    <string name="app_info_flags_layout_header">FLAGS</string>
+    <string name="app_info_directories_layout_header">DIRECTORIES</string>
+    <string name="app_info_general_layout_header">GENERAL</string>
+    <string name="app_info_signatures_layout_header">SIGNATURES</string>
+
+    <string name="app_info_directories_data_header">DATA</string>
+    <string name="app_info_directories_source_header">SOURCE</string>
+    <string name="app_info_directories_native_lib_header">NATIVE LIB</string>
+    <string name="app_info_directories_public_source_header">PUBLIC SOURCE</string>
+    <string name="app_info_directories_split_public_source_header">SPLIT PUBLIC SOURCES</string>
+    <string name="app_info_directories_split_source_header">SPLIT SOURCES</string>
+
+
+    <string name="app_info_general_package_name_header">PACKAGE NAME</string>
+    <string name="app_info_general_version_code_header">VERSION CODE</string>
+    <string name="app_info_general_version_name_header">VERSION NAME</string>
+    <string name="app_info_general_uid_header">UID</string>
+    <string name="app_info_general_process_name_header">PROCESS NAME</string>
+    <string name="app_info_general_target_sdk_header">TARGET SDK</string>
+    <string name="app_info_general_enabled_header">ENABLED</string>
+    <string name="app_info_general_task_affinity_header">TASK AFFINITY</string>
+    <string name="app_info_general_first_install_header">FIRST INSTALL</string>
+    <string name="app_info_general_last_update_header">LAST UPDATE</string>
+    <string name="app_info_general_shared_uid_header">SHARED UID</string>
+    <string name="app_info_general_shared_uid_label_header">SHARED USER</string>
+
+    <string name="app_info_activities_adapter_layout_header">ACTIVITY NAME</string>
+    <string name="app_info_activities_adapter_layout_is_main">MAIN</string>
+    <string name="app_info_activities_adapter_layout_is_launcher">LAUNCHER</string>
+    <string name="title_activity_activity_detail">ActivityDetailActivity</string>
+    <string name="title_activity_content_provider_detail">ContentProviderDetailActivity</string>
+
+
+    <string name="activity_info_general_layout_header">GENERAL</string>
+    <string name="activity_info_config_changes_layout_header">CONFIG CHANGES</string>
+    <string name="activity_info_categories_layout_header">CATEGORIES</string>
+    <string name="activity_info_flags_layout_header">FLAGS</string>
+    <string name="activity_info_soft_input_mode_layout_header">SOFT INPUT MODE</string>
+
+    <string name="activity_info_general_name_header">NAME</string>
+    <string name="activity_info_general_enabled_header">ENABLED</string>
+    <string name="activity_info_general_exported_header">EXPORTED</string>
+    <string name="activity_info_general_process_name_header">PROCESS NAME</string>
+    <string name="activity_info_general_is_launcher_header">IS LAUNCHER</string>
+    <string name="activity_info_general_is_main_header">IS MAIN</string>
+    <string name="activity_info_general_target_activity_header">TARGET ACTIVITY</string>
+    <string name="activity_info_general_parent_activity_name_header">PARENT ACTIVITY</string>
+    <string name="activity_info_general_screen_orientation_header">SCREEN ORIENTATION</string>
+    <string name="activity_info_general_max_recents_header">MAX RECENTS</string>
+    <string name="activity_info_general_task_affinity_header">TASK AFFINITY</string>
+    <string name="activity_info_general_persistable_mode_header">PERSISTABLE MODE</string>
+    <string name="activity_info_general_permission_header">PERMISSION</string>
+    <string name="activity_info_general_document_launch_mode_header">DOCUMENT LAUNCH MODE</string>
+
+
+    <string name="declared_permission_name_header">NAME</string>
+    <string name="declared_permission_label_header">LABEL</string>
+    <string name="declared_permission_protection_level_header">PROTECTION LEVEL</string>
+    <string name="declared_permission_flags_header">FLAGS</string>
+
+
+    <string name="requested_permission_granted_header">GRANTED</string>
+    <string name="requested_permission_denied_header">DENIED</string>
+
+
+    <string name="requested_features_required_header">REQUIRED</string>
+    <string name="requested_features_not_required_header">NOT REQUIRED</string>
+    <string name="requested_features_gles_version_prefix">GLES</string>
+    <string name="requested_features_empty_gles">0.0</string>
+
+
+    <string name="service_info_name_header">NAME</string>
+    <string name="service_info_enabled_header">ENABLED</string>
+    <string name="service_info_exported_header">EXPORTED</string>
+    <string name="service_info_process_name_header">PROCESS NAME</string>
+    <string name="service_info_permission_header">PERMISSION</string>
+    <string name="service_info_flags_header">FLAGS</string>
+
+
+    <string name="content_provider_path_permission_path_header">PATH</string>
+    <string name="content_provider_path_permission_type_header">TYPE</string>
+    <string name="content_provider_path_permission_read_permission_header">READ PERMISSION</string>
+    <string name="content_provider_path_permission_write_permission_header">WRITE PERMISSION</string>
+
+
+    <string name="content_provider_uri_permission_patterns_path_header">PATH</string>
+    <string name="content_provider_uri_permission_patterns_type_header">TYPE</string>
+
+
+    <string name="content_provider_name_header">NAME</string>
+    <string name="content_provider_enabled_header">ENABLED</string>
+    <string name="content_provider_exported_header">EXPORTED</string>
+    <string name="content_provider_authority_header">AUTHORITY</string>
+    <string name="content_provider_read_permission_header">READ PERMISSION</string>
+    <string name="content_provider_write_permission_header">WRITE PERMISSION</string>
+    <string name="content_provider_process_name_header">PROCESS NAME</string>
+    <string name="content_provider_multiprocess_header">MULTI PROCESS</string>
+    <string name="content_provider_single_user_header">SINGLE USER</string>
+    <string name="content_provider_init_order_header">INIT ORDER</string>
+    <string name="content_provider_is_syncable_header">IS SYNCABLE</string>
+    <string name="content_provider_grant_uri_permission_header">GRANT URI PERMISSIONS</string>
+
+    <string name="content_provider_path_permission_layout_header">PATH PERMISSIONS</string>
+    <string name="content_provider_uri_permission_patterns_layout_header">URI PERMISSION PATTERNS</string>
+</resources>

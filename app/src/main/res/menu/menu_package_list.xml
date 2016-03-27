@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.co.flatrocksolutions.flock.func_setup_wizard.view.SetupActivity">
+    <item android:id="@+id/action_include_system_apps" android:title="@string/menu_item_include_system_apps"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:checkable="true"/>
+    <item android:id="@+id/action_include_uninstalled_aps" android:title="@string/menu_item_include_uninstalled_apps"
+        android:orderInCategory="200" app:showAsAction="never"
+        android:checkable="true"/>
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#727272</color>
+    <color name="windowBackground">#E6E6E6</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="card_view_background">#E6E6E6</color>
+
+    <color name="card_header_color_1">#673AB7</color>
+    <color name="card_header_color_2">#4CAF50</color>
+    <color name="card_header_color_3">#FF5722</color>
+    <color name="card_header_color_4">#03A9F4</color>
+    <color name="card_header_color_5">#f44336</color>
+    <color name="card_header_color_6">#FFC107</color>
+</resources>
