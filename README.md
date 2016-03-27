@@ -6,15 +6,15 @@ Livingstone, Package Explorer
 Livingstone is for Android developers.
 It allows you to view all the details of installed apps on your device.
 
-Viewing includes:
-..*General Info
-..*Activities + Detail
-..*Services
-..*Content Providers + Detail
-..*Broadcast Receivers
-..*Requested Permissions
-..*Declared Permissions
-..*Requested Features
+### Viewing includes:
+* General Info
+* Activities + Detail
+* Services
+* Content Providers + Detail
+* Broadcast Receivers
+* Requested Permissions
+* Declared Permissions
+* Requested Features
 
 Architecture
 ======
